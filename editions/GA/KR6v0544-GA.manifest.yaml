@@ -19,13 +19,13 @@ metadata:
     short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0544_000-GA.yaml, hash: 'sha256:4e929e1c6e32dbdfe5e2bdb699fd6439de2bbc212264e4f2a3aeacc83f179a1d'}
+  - {seq: 0, filename: KR6v0544_000-GA.yaml, hash: 'sha256:21dd59b6773ff3d590284aa02230a9c71065706f90e977833b214f9b06c1b32a'}
   - {seq: 1, filename: KR6v0544_001-GA.yaml, hash: 'sha256:420538495ba251846037a2c79eee1e1b5d142d3e5a9d57ac13bda19ecce7daa6'}
   - {seq: 2, filename: KR6v0544_002-GA.yaml, hash: 'sha256:75818a0f24b39de6702edb802b3c710e1012495af530b734cb27e038fa99f22e'}
   - {seq: 3, filename: KR6v0544_003-GA.yaml, hash: 'sha256:941e75a8b983ab4fa97c2158ce484ddb2c2df632c9816fa1c7444c71e4499bc4'}
   - {seq: 4, filename: KR6v0544_004-GA.yaml, hash: 'sha256:83af8cdc530979390e840830a391db0f136b3a6fa350a227d9a429cb48faa361'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0544_000-GA.markers.yaml, hash: 'sha256:698a3f147ba44fc899e4d29eac1e2fe56bc373d499479c8f649a8cc33832d5a0'}
+  - {seq: 0, role: markers, filename: assets/KR6v0544_000-GA.markers.yaml, hash: 'sha256:21fbf6ccded19ca46824b96458c1af6c6b62a94343ecacfb9b7e29530771e355'}
   - {seq: 1, role: markers, filename: assets/KR6v0544_001-GA.markers.yaml, hash: 'sha256:52baf1da765ee6848099c2629521c4491b332bee2f2b14c966e8bac1089b0f17'}
   - {seq: 2, role: markers, filename: assets/KR6v0544_002-GA.markers.yaml, hash: 'sha256:74df347bc6e5a8af70dba619064bd4c56668182cc5888b3462fbdd1f1a3c2b82'}
   - {seq: 3, role: markers, filename: assets/KR6v0544_003-GA.markers.yaml, hash: 'sha256:b998e94f2879148888e864053ec532b07afa0d84bf37312caa0035845ec38abd'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 版本說明
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-2
     span:
-    - front
+    - body
     - 43
     - 43
   label: 卷首
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-3
     span:
-    - front
+    - body
     - 43
     - 43
   label: 序
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-4
     span:
-    - front
+    - body
     - 526
     - 526
   label: 重修敘
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-5
     span:
-    - front
+    - body
     - 933
     - 933
   label: 目錄
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-6
     span:
-    - front
+    - body
     - 1025
     - 1025
   label: 凢例
@@ -95,7 +95,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-7
     span:
-    - front
+    - body
     - 1223
     - 1223
   label: 逰雁蕩雜詩
@@ -105,7 +105,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-8
     span:
-    - front
+    - body
     - 1239
     - 1239
   label: 老僧巖
@@ -115,7 +115,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-9
     span:
-    - front
+    - body
     - 1270
     - 1270
   label: 石梁洞
@@ -125,7 +125,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-10
     span:
-    - front
+    - body
     - 1301
     - 1301
   label: 靈峰洞
@@ -135,7 +135,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-11
     span:
-    - front
+    - body
     - 1332
     - 1332
   label: 石芝峰
@@ -145,7 +145,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-12
     span:
-    - front
+    - body
     - 1363
     - 1363
   label: 五老峰
@@ -155,7 +155,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-13
     span:
-    - front
+    - body
     - 1394
     - 1394
   label: 龍鼻水
@@ -165,7 +165,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-14
     span:
-    - front
+    - body
     - 1425
     - 1425
   label: 剪刀峰
@@ -175,7 +175,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-15
     span:
-    - front
+    - body
     - 1456
     - 1456
   label: 僊人橋
@@ -185,7 +185,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-16
     span:
-    - front
+    - body
     - 1487
     - 1487
   label: 天柱峰
@@ -195,7 +195,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-17
     span:
-    - front
+    - body
     - 1518
     - 1518
   label: 獨秀峰
@@ -205,7 +205,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-18
     span:
-    - front
+    - body
     - 1549
     - 1549
   label: 響巖
@@ -215,7 +215,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-19
     span:
-    - front
+    - body
     - 1579
     - 1579
   label: 大龍湫
@@ -225,7 +225,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-20
     span:
-    - front
+    - body
     - 1610
     - 1610
   label: 逰雁山畢，晚飯能仁寺
@@ -235,7 +235,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-21
     span:
-    - front
+    - body
     - 1659
     - 1659
   label: 登雁山最高處二首
@@ -245,7 +245,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-22
     span:
-    - front
+    - body
     - 1822
     - 1822
   label: 鴈宕雜咏
@@ -255,7 +255,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-23
     span:
-    - front
+    - body
     - 1839
     - 1839
   label: 能仁寺
@@ -265,7 +265,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-24
     span:
-    - front
+    - body
     - 1898
     - 1898
   label: 剪刀峰
@@ -275,7 +275,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-25
     span:
-    - front
+    - body
     - 1929
     - 1929
   label: 大龍湫
@@ -285,7 +285,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-26
     span:
-    - front
+    - body
     - 1960
     - 1960
   label: 展旗峰
@@ -295,7 +295,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-27
     span:
-    - front
+    - body
     - 1991
     - 1991
   label: 屏霞峰
@@ -305,7 +305,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-28
     span:
-    - front
+    - body
     - 2022
     - 2022
   label: 天柱峰
@@ -315,7 +315,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-29
     span:
-    - front
+    - body
     - 2053
     - 2053
   label: 玉女峰
@@ -325,7 +325,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-30
     span:
-    - front
+    - body
     - 2084
     - 2084
   label: 龍鼻水
@@ -335,7 +335,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-31
     span:
-    - front
+    - body
     - 2115
     - 2115
   label: 卓筆峰
@@ -345,7 +345,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-32
     span:
-    - front
+    - body
     - 2146
     - 2146
   label: 獨秀峰
@@ -355,7 +355,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-33
     span:
-    - front
+    - body
     - 2177
     - 2177
   label: 僧抱石
@@ -365,7 +365,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-34
     span:
-    - front
+    - body
     - 2208
     - 2208
   label: 水簾洞
@@ -375,7 +375,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-35
     span:
-    - front
+    - body
     - 2239
     - 2239
   label: 靈峰洞
@@ -385,7 +385,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-36
     span:
-    - front
+    - body
     - 2270
     - 2270
   label: 五老峰
@@ -395,7 +395,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-37
     span:
-    - front
+    - body
     - 2301
     - 2301
   label: 石梁洞
@@ -405,7 +405,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-38
     span:
-    - front
+    - body
     - 2332
     - 2332
   label: 老僧巖
@@ -415,7 +415,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-39
     span:
-    - front
+    - body
     - 2363
     - 2363
   label: 鷹巖
@@ -425,7 +425,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-40
     span:
-    - front
+    - body
     - 2393
     - 2393
   label: 㕠鸞峰
@@ -435,7 +435,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-41
     span:
-    - front
+    - body
     - 2424
     - 2424
   label: 含珠峰
@@ -445,7 +445,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-42
     span:
-    - front
+    - body
     - 2455
     - 2455
   label: 托硯峯
@@ -455,7 +455,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-43
     span:
-    - front
+    - body
     - 2486
     - 2486
   label: 石門潭
@@ -465,7 +465,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-44
     span:
-    - front
+    - body
     - 2516
     - 2516
   label: 逰雁山
@@ -475,7 +475,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-45
     span:
-    - front
+    - body
     - 2612
     - 2612
   label: 鴈山行
@@ -485,7 +485,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-46
     span:
-    - front
+    - body
     - 2805
     - 2805
   label: 寄龍湫上人
@@ -495,7 +495,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-47
     span:
-    - front
+    - body
     - 2877
     - 2877
   label: 鴈蕩歌
@@ -505,7 +505,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-48
     span:
-    - front
+    - body
     - 3602
     - 3602
   label: 秋日偕僚友㳺雁宕二首
@@ -515,7 +515,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-49
     span:
-    - front
+    - body
     - 3735
     - 3735
   label: 過四十九盤嶺宿能仁寺
@@ -525,7 +525,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-50
     span:
-    - front
+    - body
     - 3796
     - 3796
   label: 大龍湫
@@ -535,7 +535,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-51
     span:
-    - front
+    - body
     - 3827
     - 3827
   label: 剪刀峰
@@ -545,7 +545,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-52
     span:
-    - front
+    - body
     - 3858
     - 3858
   label: 天柱峰
@@ -555,7 +555,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-53
     span:
-    - front
+    - body
     - 3889
     - 3889
   label: 展旗峰
@@ -565,7 +565,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-54
     span:
-    - front
+    - body
     - 3920
     - 3920
   label: 玉女峰
@@ -575,7 +575,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-55
     span:
-    - front
+    - body
     - 3951
     - 3951
   label: 卓筆峰
@@ -585,7 +585,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-56
     span:
-    - front
+    - body
     - 3982
     - 3982
   label: 鴈山観瀑八韻
@@ -595,7 +595,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-57
     span:
-    - front
+    - body
     - 4091
     - 4091
   label: 靈峰寺
@@ -605,7 +605,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-58
     span:
-    - front
+    - body
     - 4134
     - 4134
   label: 靈巖寺
@@ -615,7 +615,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-59
     span:
-    - front
+    - body
     - 4177
     - 4177
   label: 石梁洞
@@ -625,7 +625,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-60
     span:
-    - front
+    - body
     - 4220
     - 4220
   label: 觀海亭
@@ -635,7 +635,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-61
     span:
-    - front
+    - body
     - 4279
     - 4279
   label: 観海亭　用韻二章
@@ -645,7 +645,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-62
     span:
-    - front
+    - body
     - 4412
     - 4412
   label: 観海亭和　道尊車韻
@@ -655,7 +655,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-63
     span:
-    - front
+    - body
     - 4488
     - 4488
   label: 天柱峯
@@ -665,7 +665,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-64
     span:
-    - front
+    - body
     - 4560
     - 4560
   label: 龍湫高頂
@@ -675,7 +675,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-65
     span:
-    - front
+    - body
     - 4618
     - 4618
   label: 天柱峯和胡四尊韻
@@ -685,7 +685,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-66
     span:
-    - front
+    - body
     - 4685
     - 4685
   label: 龍湫高頂和韻
@@ -695,7 +695,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-67
     span:
-    - front
+    - body
     - 4746
     - 4746
   label: 呈查盤胡四尊
@@ -705,7 +705,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-68
     span:
-    - front
+    - body
     - 4811
     - 4811
   label: 靈巖寺
@@ -715,7 +715,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-69
     span:
-    - front
+    - body
     - 4870
     - 4870
   label: 龍湫
@@ -725,7 +725,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-70
     span:
-    - front
+    - body
     - 4928
     - 4928
   label: 靈峰寺
@@ -735,7 +735,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-71
     span:
-    - front
+    - body
     - 4987
     - 4987
   label: 能仁寺
@@ -745,7 +745,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-72
     span:
-    - front
+    - body
     - 5046
     - 5046
   label: 鴈山漫懷三絕
@@ -755,7 +755,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-73
     span:
-    - front
+    - body
     - 5136
     - 5136
   label: 同鄭無功世丈酌靈岩寺
@@ -765,7 +765,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-74
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 雁山寺圖
@@ -775,7 +775,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-75
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 一、雁山總圖
@@ -785,7 +785,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-76
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 二、本覺寺圖
@@ -795,7 +795,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-77
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 三、凌雲寺圖
@@ -805,7 +805,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-78
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 四、寳冠寺圖
@@ -815,7 +815,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-79
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 五、能仁寺圖
@@ -825,7 +825,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-80
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 六、古塔寺圖
@@ -835,7 +835,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-81
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 七、飛泉寺圖
@@ -845,7 +845,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-82
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 八、普門寺圖
@@ -855,7 +855,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-83
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 九、羅漢寺圖
@@ -865,7 +865,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-84
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 十、石門寺圖
@@ -875,7 +875,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-85
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 十一、瑞鹿寺圖
@@ -885,7 +885,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-86
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 十二、華嚴寺圖
@@ -895,7 +895,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-87
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 十三、天柱寺圖
@@ -905,7 +905,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-88
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 十四、靈峯寺圖
@@ -915,7 +915,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-89
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 十五、真濟寺圖
@@ -925,7 +925,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-90
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 十六、靈巖寺圖
@@ -935,7 +935,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-91
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 十七、淨明寺圖
@@ -945,7 +945,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-92
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 十八、石梁寺圖
@@ -955,7 +955,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-93
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 十九、雙峯寺圖
@@ -965,7 +965,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-94
     span:
-    - front
+    - body
     - 5257
     - 5257
   label: 二十、剪刀峯圖
@@ -975,7 +975,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-95
     span:
-    - front
+    - body
     - 5307
     - 5307
   label: 二十一、大龍湫圖
@@ -985,7 +985,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0544_GA_000-mulu-96
     span:
-    - front
+    - body
     - 5350
     - 5350
   label: 鴈山紀勝
@@ -6161,4 +6161,4 @@ table_of_contents:
   label: 後跋
   type: mulu
   level: 1
-hash: sha256:7d03038c6219460e9d25491dcc4882751e252e98fd7e5319c1caf862a333d068
+hash: sha256:58061827a4cf0fb69bba43cbc1719ffde98dbbb6c45899fd0ade04dcac9bc640
